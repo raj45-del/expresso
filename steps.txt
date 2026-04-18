@@ -1,0 +1,23 @@
+Initialize the Node.js project:
+
+Bash
+
+npm init -y
+(Creates package.json with default settings).
+
+Install dependencies:
+
+Bash
+
+npm install commander chalk ora fs-extra dotenv
+
+
+Bash
+npm link
+
+
+expressoot "test" 
+
+
+Clear History 
+Remove-Item (Get-PSReadlineOption).HistorySavePath
